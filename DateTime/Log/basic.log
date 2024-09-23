@@ -1,0 +1,6 @@
+2023-08-03 12:59:01,262 :: DEBUG :: root :: helper.py :: 6 :: 25476 :: I am a debug log from helper
+2023-08-03 12:59:01,262 :: WARNING :: root :: logInfo.py :: 19 :: 25476 :: Addition : 10 + 5 = 15
+2023-08-03 12:59:01,262 :: WARNING :: root :: logInfo.py :: 21 :: 25476 :: Subtraction : 10 + 5 =5
+2023-08-03 12:59:01,262 :: WARNING :: root :: logInfo.py :: 23 :: 25476 :: Multiplication : 10 + 5 = 50
+2023-08-03 12:59:01,263 :: WARNING :: root :: logInfo.py :: 25 :: 25476 :: Divide : 10 + 5 = 2.0
+2023-08-03 12:59:01,263 :: WARNING :: root :: logInfo.py :: 27 :: 25476 :: Mod : 10 + 5 = 0 
